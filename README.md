@@ -1,3 +1,8 @@
+### Hi there 👋
+
+This is my GitHub page. I recently took it up to clean it up, so it is still very much a work in progress. My background is in statistics and AI/ML and I am a long time Linux user. This is my private account, so will not find all my projects here. For professional activities, I would like to refer you to the my LinkedIn page, the link is below. 
+
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pietergeelen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -5,14 +10,11 @@
   <a href="https://stackoverflow.com/users/10093446/pieter-geelen">
     <img src="https://img.shields.io/badge/stackoverflow-orange?logo=stackoverflow&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=psmgeelen&style=flat-square&color=blue" alt=""/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=psmgeelen&style=flat-square&color=blue" alt=""/>
 
-### Hi there 👋
+
 
 <!--
 **psmgeelen/psmgeelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
