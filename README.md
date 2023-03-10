@@ -3,7 +3,7 @@
 This is my GitHub page. I recently took it up to clean it up, so it is still very much a work in progress. My background is in statistics and AI/ML and I am a long time Linux user. This is my private account, so will not find all my projects here. For professional activities, I would like to refer you to the my LinkedIn page, the link is below. 
 
 <center>
-<table width="200" align="center">
+<table border="0" width="auto" align="center">
   <tr>
     <th> <a href="https://www.linkedin.com/in/pietergeelen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
