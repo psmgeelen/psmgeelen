@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is my GitHub page. I recently took it up to clean it up, so it is still very much a work in progress. My background is in statistics and AI/ML and I am a long time Linux user. This is my private account, so will not find all my projects here. For professional activities, I would like to refer you to the my LinkedIn page, the link is below. 
+This is my GitHub page. I recently took it upon myself to clean it up, so it is still very much a work in progress. My background is in statistics and AI/ML and I am a long time Linux user. This is my private account, so you will not find all my projects here. For professional activities, I would like to refer you to my LinkedIn page, the link is below. 
 
 <center>
   <table border="0" cellpadding="200" width="400" align="center">
