@@ -4,7 +4,7 @@ This is my GitHub page. I recently took it up to clean it up, so it is still ver
 
 <style>
 table, th, td {
-  border:0px solid black;
+  table-layout = "auto";
 }
 </style>
 
@@ -20,18 +20,7 @@ table, th, td {
     </th>
     <th><img src="https://komarev.com/ghpvc/?username=psmgeelen&style=flat-square&color=blue" alt=""/></th>
   </tr>
-
-<div id="badges" align="center">
- 
-  <p>&emsp;</p>
-  
-  
-
-  <p>&emsp;</p>
-  
-  
-  <img src="https://komarev.com/ghpvc/?username=psmgeelen&style=flat-square&color=blue" alt=""/>
-</div>
+ </table>
 
 
 
