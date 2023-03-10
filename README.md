@@ -4,8 +4,11 @@ This is my GitHub page. I recently took it up to clean it up, so it is still ver
 
 <style>
 table, th, td {
-  table-layout = "auto";
+  table-layout: fixed;
+  width: 120px;
+  border: 1px solid red;
 }
+
 </style>
 
 <table>
