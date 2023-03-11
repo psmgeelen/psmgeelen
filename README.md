@@ -3,17 +3,7 @@
 This is my GitHub page. I recently took it upon myself to clean it up, so it is still very much a work in progress. My background is in statistics and AI/ML and I am a long time Linux user. This is my private account, so you will not find all my projects here. For professional activities, I would like to refer you to my LinkedIn page, the link is below. 
 
 
-#container {
-  border: 2px dashed #444;
-  height: 125px;
-  text-align: justify;
-  -ms-text-justify: distribute-all-lines;
-  text-justify: distribute-all-lines;
-  /* just for demo */
-  min-width: 612px;
-}
-
-<div id="container">
+<div id="container", text-align: justify>
   <div class="box1">
     <a href="https://www.linkedin.com/in/pietergeelen/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
