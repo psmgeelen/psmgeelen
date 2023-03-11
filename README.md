@@ -21,6 +21,31 @@ This is my GitHub page. I recently took it upon myself to clean it up, so it is 
 </div>
 
 
+div{
+    width:530px; /* I changed the div size, because you a have fixed width otherwise you should use scrolling */
+    border:1px red solid;
+    text-align:justify;    /* You will justify to 100$ of containing div, if you want to "center" just add another div with % size and centered */
+
+}
+div span{ /* I worked with your example you may use a class */
+    width:60px;
+    border:1px yellow solid;
+    display: inline-block; /* Inline-block */ 
+    position: relative; /* relative to container div*/
+}
+
+div:before{
+    content: ''; /* position for block element*/
+    display: block; /* the block part for the last item*/
+    width: 100%;
+}
+
+div:after {
+    content: '';
+    display: inline-block; /* inline-block for the first (and middle elements) */
+    width: 100%;
+}
+
 <!--
 **psmgeelen/psmgeelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
