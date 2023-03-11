@@ -5,14 +5,20 @@ This is my GitHub page. I recently took it upon myself to clean it up, so it is 
 
 
 <div id="container">
-  <div class="box1"><a href="https://www.linkedin.com/in/pietergeelen/">
+  <div class="box1">
+    <a href="https://www.linkedin.com/in/pietergeelen/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a></div>
-  <div class="box2"><a href="https://stackoverflow.com/users/10093446/pieter-geelen">
+    </a>
+  </div>
+  <div class="box2">
+    <a href="https://stackoverflow.com/users/10093446/pieter-geelen">
       <img src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/>
-    </a></div>
-  <div class="box3"><img src="https://komarev.com/ghpvc/?username=psmgeelen&style=flat-square&color=blue" alt=""/></div>
-  <span class="stretch"></span>
+    </a>
+  </div>
+  <div class="box3">
+    <img src="https://komarev.com/ghpvc/?username=psmgeelen&style=flat-square&color=blue" alt=""/></div>
+  <span class="stretch">
+  </span>
 </div>
 
 
