@@ -8,8 +8,7 @@ This is my GitHub page. I recently took it upon myself to clean it up, so it is 
     <a href="https://www.linkedin.com/in/pietergeelen/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-  </div>
-  <div class="box2" style="display: inline">>
+  </div><div class="box2" style="display: inline">>
     <a href="https://stackoverflow.com/users/10093446/pieter-geelen">
       <img src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/>
     </a>
@@ -20,40 +19,3 @@ This is my GitHub page. I recently took it upon myself to clean it up, so it is 
   <span class="stretch">
   </span>
 </div>
-
-
-<html>
-  <head>
-    <style>
-      div { display:inline-block; }
-      /* IE6-7 */
-      @media,
-          {
-          div { display: inline; margin-right:10px; }
-          }
-   </style>
-  </head>
-  <div> <a href="https://www.linkedin.com/in/pietergeelen/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a></div>
-  <div><a href="https://stackoverflow.com/users/10093446/pieter-geelen">
-      <img src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/>
-    </a></div>
-  <div><img src="https://komarev.com/ghpvc/?username=psmgeelen&style=flat-square&color=blue" alt=""/></div>
-</html>
-
-
-<!--
-**psmgeelen/psmgeelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
