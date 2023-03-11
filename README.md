@@ -3,26 +3,23 @@
 This is my GitHub page. I recently took it upon myself to clean it up, so it is still very much a work in progress. My background is in statistics and AI/ML and I am a long time Linux user. This is my private account, so you will not find all my projects here. For professional activities, I would like to refer you to my LinkedIn page, the link is below. 
 
 
-<div id="container", text-align: justify>
-  <div class="box1">
+<div id="container" text-align: justify>
+  <div class="box1" text-align: justify>
     <a href="https://www.linkedin.com/in/pietergeelen/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <div class="box2">
+  <div class="box2" text-align: justify>
     <a href="https://stackoverflow.com/users/10093446/pieter-geelen">
       <img src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/>
     </a>
   </div>
-  <div class="box3">
-    <img src="https://komarev.com/ghpvc/?username=psmgeelen&style=flat-square&color=blue" alt=""/></div>
+  <div class="box3" text-align: justify>
+    <img src="https://komarev.com/ghpvc/?username=psmgeelen&style=flat-square&color=blue" alt=""/>
+  </div>
   <span class="stretch">
   </span>
 </div>
-
-test | test | test
-
-
 <!--
 **psmgeelen/psmgeelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
